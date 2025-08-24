@@ -1,3 +1,7 @@
+![Los Ratones Logo](https://cdn.escharts.com/uploads/public/675/6de/58a/6756de58ab16f480249301.png)
+
+
+
 # 📅 Los Ratones Game Schedule (.ics Feed)
 
 Welcome to the calendar feed for **Los Ratones**! This repository publishes a live-updating `.ics` file that contains all scheduled games for LR. Whenever a new match is added or updated, the `.ics` file reflects those changes automatically.
